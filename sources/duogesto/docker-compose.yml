@@ -1,0 +1,36 @@
+services:
+  duogesto-backend:
+    build: backend
+    restart: unless-stopped
+    environment:
+      - MONGO_HOST=duogesto-database
+      - SECRET_KEY=$SECRET_KEY
+    networks:
+      - duogesto-network
+    volumes:
+      - duogesto-backend:/app
+    depends_on:
+      - duogesto-database
+      
+  duogesto-frontend:
+    build: frontend
+    ports:
+      - 4960:80
+    restart: unless-stopped
+    networks:
+      - duogesto-network
+
+  duogesto-database:
+    image: mongo:8.0.0
+    restart: unless-stopped
+    volumes:
+      - ./init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+    networks:
+      - duogesto-network
+
+networks:
+  duogesto-network:
+    driver: bridge
+
+volumes:
+  duogesto-backend:

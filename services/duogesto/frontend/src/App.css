@@ -1,0 +1,55 @@
+.center-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homepage {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: black;
+}
+
+.home-logo {
+  width: 350px
+}
+
+.home-features {
+  max-width: 600px;
+  align-items: center;
+}
+
+.navigationbar {
+  background-color: green;
+}
+
+.navbar-logo {
+  margin-right: 1rem;
+}
+
+.user-edit-button {
+  max-width: 100px;
+  padding-left: 1rem;
+  margin-left: 1rem;
+}
+
+.user-pic {
+  max-width: 300px !important;
+  border-radius: 100%;
+}
+
+.question-image {
+  max-width: 200px !important;
+}
+
+.question-text {
+  font-size: xx-large;
+}
+
+.question-answer {
+  font-size: larger;
+}

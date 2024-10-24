@@ -1,0 +1,41 @@
+services:
+  volumes-init:
+    image: cache.ecsc2024.it/cybersecnatlab/socaz:ubuntu-noble@sha256:4ba0777abd657935815349b1c21320097cf4f40e1481578ae8cb15fe2b3b380e
+    restart: no
+    entrypoint: /bin/sh -c 'chown -R ubuntu:ubuntu /home/ubuntu'
+    volumes:
+      - 'events:/home/ubuntu/events:rw'
+      - 'wallets:/home/ubuntu/wallets:rw'
+
+  event-management:
+    image: cache.ecsc2024.it/cybersecnatlab/socaz:ubuntu-noble@sha256:4ba0777abd657935815349b1c21320097cf4f40e1481578ae8cb15fe2b3b380e
+    restart: unless-stopped
+    depends_on:
+      - volumes-init
+    user: 'ubuntu:ubuntu'
+    command: 'socaz --bind 1338 --timeout 60 -- /home/ubuntu/dist/event-management'
+    ports:
+      - '1338:1338'
+    volumes:
+      - './dist:/home/ubuntu/dist:ro'
+      - 'events:/home/ubuntu/events:rw'
+
+  wallet:
+    image: cache.ecsc2024.it/cybersecnatlab/socaz:ubuntu-noble@sha256:4ba0777abd657935815349b1c21320097cf4f40e1481578ae8cb15fe2b3b380e
+    restart: unless-stopped
+    depends_on:
+      - volumes-init
+    user: 'ubuntu:ubuntu'
+    command: 'socaz --bind 1337 --timeout 60 -- /home/ubuntu/dist/wallet'
+    ports:
+      - '1337:1337'
+    volumes:
+      - './dist:/home/ubuntu/dist:ro'
+      - 'events:/home/ubuntu/events:ro'
+      - 'wallets:/home/ubuntu/wallets:rw'
+
+volumes:
+  events:
+    driver: local
+  wallets:
+    driver: local

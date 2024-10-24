@@ -1,0 +1,36 @@
+services:
+  hsm:
+    build: ./hsm
+    volumes:
+      - ./hsm:/srv/hsm:ro
+      - ./hsm_data:/srv/hsm_data:rw
+    restart: unless-stopped
+
+  backend:
+    build: ./webapp/
+    restart: unless-stopped
+    volumes:
+      - ./webapp/src:/var/www/html/
+    environment:
+      HSM_HOST: hsm
+      HSM_PORT: 1337
+      DB_HOST: database
+      DB_USER: root
+      DB_PASS: "${DB_PASS}"
+      SHARE_SECRET: "${SHARE_SECRET}"
+    ports:
+      - '80:80'
+      
+  database:
+    image: cache.ecsc2024.it/library/mariadb:11
+    environment:
+      MARIADB_ROOT_PASSWORD: "${DB_PASS}"
+    command: ["--default-authentication-plugin=mysql_native_password"]
+    volumes:
+      - ./db/init:/docker-entrypoint-initdb.d
+      - ./db/data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped

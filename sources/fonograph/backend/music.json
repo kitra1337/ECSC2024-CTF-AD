@@ -1,0 +1,184 @@
+[
+  {
+    "id": 0,
+    "title": "Spring mvt 3",
+    "download_link": "{BUCKET_URL}/music/Spring mvt 3.mp3",
+    "author": "Vivaldi",
+    "duration": 254
+  },
+  {
+    "id": 1,
+    "title": "Spring mvt 1",
+    "download_link": "{BUCKET_URL}/music/Spring mvt 1.mp3",
+    "author": "Vivaldi",
+    "duration": 215
+  },
+  {
+    "id": 2,
+    "title": "La donna è mobile",
+    "download_link": "{BUCKET_URL}/music/La donna è mobile.mp3",
+    "author": "Verdi",
+    "duration": 129
+  },
+  {
+    "id": 3,
+    "title": "Winter mvt 2",
+    "download_link": "{BUCKET_URL}/music/Winter mvt 2.mp3",
+    "author": "Vivaldi",
+    "duration": 132
+  },
+  {
+    "id": 4,
+    "title": "Autumn mvt 3",
+    "download_link": "{BUCKET_URL}/music/Autumn mvt 3.mp3",
+    "author": "Vivaldi",
+    "duration": 201
+  },
+  {
+    "id": 5,
+    "title": "Spring mvt 2",
+    "download_link": "{BUCKET_URL}/music/Spring mvt 2.mp3",
+    "author": "Vivaldi",
+    "duration": 171
+  },
+  {
+    "id": 6,
+    "title": "Autumn mvt 1",
+    "download_link": "{BUCKET_URL}/music/Autumn mvt 1.mp3",
+    "author": "Vivaldi",
+    "duration": 304
+  },
+  {
+    "id": 7,
+    "title": "Summer mvt 2",
+    "download_link": "{BUCKET_URL}/music/Summer mvt 2.mp3",
+    "author": "Vivaldi",
+    "duration": 107
+  },
+  {
+    "id": 8,
+    "title": "Va pensiero",
+    "download_link": "{BUCKET_URL}/music/Va pensiero.mp3",
+    "author": "Verdi",
+    "duration": 278
+  },
+  {
+    "id": 9,
+    "title": "Summer mvt 1",
+    "download_link": "{BUCKET_URL}/music/Summer mvt 1.mp3",
+    "author": "Vivaldi",
+    "duration": 302
+  },
+  {
+    "id": 10,
+    "title": "La fatal pietra sovra me si chiuse",
+    "download_link": "{BUCKET_URL}/music/La fatal pietra sovra me si chiuse.mp3",
+    "author": "Rossini",
+    "duration": 253
+  },
+  {
+    "id": 11,
+    "title": "Autumn mvt 2",
+    "download_link": "{BUCKET_URL}/music/Autumn mvt 2.mp3",
+    "author": "Vivaldi",
+    "duration": 152
+  },
+  {
+    "id": 12,
+    "title": "Winter mvt",
+    "download_link": "{BUCKET_URL}/music/Winter mvt 3.mp3",
+    "author": "Vivaldi",
+    "duration": 208
+  },
+  {
+    "id": 13,
+    "title": "Summer mvt",
+    "download_link": "{BUCKET_URL}/music/Summer mvt 3.mp3",
+    "author": "Vivaldi",
+    "duration": 159
+  },
+  {
+    "id": 14,
+    "title": "Libiamo ne' lieti calici",
+    "download_link": "{BUCKET_URL}/music/Libiamo ne' lieti calici.mp3",
+    "author": "Verdi",
+    "duration": 182
+  },
+  {
+    "id": 15,
+    "title": "Winter mvt 1",
+    "download_link": "{BUCKET_URL}/music/Winter mvt 1.mp3",
+    "author": "Vivaldi",
+    "duration": 208
+  },
+  {
+    "id": 16,
+    "title": "Rigoletto",
+    "download_link": "{BUCKET_URL}/music/Rigoletto.mp3",
+    "author": "Verdi",
+    "duration": 191
+  },
+  {
+    "id": 17,
+    "title": "Aida",
+    "download_link": "{BUCKET_URL}/music/Aida.mp3",
+    "author": "Verdi",
+    "duration": 50
+  },
+  {
+    "id": 18,
+    "title": "Tutto cangia, il ciel s'abbella",
+    "download_link": "{BUCKET_URL}/music/Tutto cangia, il ciel s'abbella.mp3",
+    "author": "Rossini",
+    "duration": 154
+  },
+  {
+    "id": 19,
+    "title": "Questa o quella",
+    "download_link": "{BUCKET_URL}/music/Questa o quella.mp3",
+    "author": "Verdi",
+    "duration": 145
+  },
+  {
+    "id": 20,
+    "title": "Barbiere - Overture part 1",
+    "download_link": "{BUCKET_URL}/music/Barbiere - Overture part 1.mp3",
+    "author": "Rossini",
+    "duration": 214
+  },
+  {
+    "id": 21,
+    "title": "Barbiere - Overture part 2",
+    "download_link": "{BUCKET_URL}/music/Barbiere - Overture part 2.mp3",
+    "author": "Rossini",
+    "duration": 233
+  },
+  {
+    "id": 22,
+    "title": "Toccata",
+    "download_link": "{BUCKET_URL}/music/Toccata.mp3",
+    "author": "Scarlatti",
+    "duration": 226
+  },
+  {
+    "id": 23,
+    "title": "Didone abbandonata - Adagio dolente",
+    "download_link": "{BUCKET_URL}/music/Didone abbandonata - Adagio dolente.mp3",
+    "author": "Clementi",
+    "duration": 318
+  },
+  {
+    "id": 24,
+    "title": "Didone abbandonata - Allegro agitato",
+    "download_link": "{BUCKET_URL}/music/Didone abbandonata - Allegro agitato.mp3",
+    "author": "Clementi",
+    "duration": 379
+  },
+  {
+    "id": 25,
+    "title": "Didone abbandonata - Introduzione",
+    "download_link": "{BUCKET_URL}/music/Didone abbandonata - Introduzione.mp3",
+    "author": "Clementi",
+    "duration": 739
+  }
+]

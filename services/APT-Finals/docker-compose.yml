@@ -1,0 +1,19 @@
+services:
+  server:
+    build: .
+    restart: unless-stopped
+    environment:
+      DB_DSN: postgres://postgres:postgres@postgres:5432/tennis?sslmode=disable
+    ports:
+      - "8080:8080"
+
+  postgres:
+    image: cache.ecsc2024.it/library/postgres:16.4
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: tennis
+    volumes:
+      - ./data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql:ro

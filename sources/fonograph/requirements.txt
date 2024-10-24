@@ -1,0 +1,10 @@
+pygame-ce==2.5.1
+cffi==1.17.1
+cryptography==43.0.1
+dissononce==0.34.3
+mutagen==1.47.0
+pycparser==2.22
+pygame_gui==0.6.12
+python-i18n==0.3.9
+websockets==13.1
+requests==2.32.3

@@ -1,0 +1,45 @@
+---
+Language: Cpp
+Standard: Auto
+UseTab: Never
+TabWidth: 4
+IndentWidth: 4
+ColumnLimit: 0
+LineEnding: LF
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments:
+  Enabled: false
+AlignConsecutiveBitFields:
+  Enabled: true
+  AcrossEmptyLines: false
+AlignConsecutiveDeclarations:
+  Enabled: false
+  AcrossEmptyLines: false
+AlignConsecutiveMacros:
+  Enabled: true
+  AcrossEmptyLines: false
+AlignConsecutiveShortCaseStatements:
+  Enabled: true
+AlignEscapedNewlines: Left
+SpaceBeforeParensOptions:
+  AfterControlStatements: true
+  AfterForeachMacros: true
+  AfterFunctionDeclarationName: false
+  AfterFunctionDefinitionName: false
+  AfterIfMacros: true
+  AfterOverloadedOperator: false
+  AfterPlacementOperator: false
+  BeforeNonEmptyParentheses: false
+  AfterRequiresInExpression: false
+  AfterRequiresInClause: false
+SpaceBeforeRangeBasedForLoopColon: true
+SpaceBeforeSquareBrackets: false
+SpaceInEmptyBlock: false
+SpacesBeforeTrailingComments: 1
+SpacesInAngles: Never
+SpacesInContainerLiterals: false
+SpacesInParens: Never
+SpacesInSquareBrackets: false
+IndentWrappedFunctionNames: true
+PointerAlignment: Right
+QualifierAlignment: Left

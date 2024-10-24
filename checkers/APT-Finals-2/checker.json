@@ -1,0 +1,8 @@
+{
+  "command": "/localfiles/service3-2-checker --store 2",
+  "timeout": {
+    "CHECK_SLA": 30000,
+    "PUT_FLAG": 5000,
+    "GET_FLAG": 10000
+  }
+}

@@ -1,0 +1,249 @@
+{
+    "defaults":
+     {
+        "colours":
+        {
+        "normal_text": "#FFFFFF"
+        }
+     },
+    "button":
+    {
+        "colours":
+        {
+            "normal_border": "#FFFFFF",
+            "normal_bg": "#FFB0B0",
+            "normal_text": "#FFFFFF",
+            "hovered_bg":"#faa2a2",
+            "hovered_text":"#FFFFFF",
+            "hovered_border":"#FFFFFF",
+            "active_bg":"#ff9494",
+            "selected_bg":"#ff9494",
+            "active_text":"#FFFFFF",
+            "selected_text":"#FFFFFF",
+            "selected_border":"#FFFFFF",
+            "active_border": "#FFFFFF"
+        },
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "2"
+        },
+        "font":
+        {
+            "name": "Roboto_Mono",
+            "size": "12",
+            "regular_path": "assets/fonts/RobotoMono-Regular.ttf"  
+        }
+    },
+    "@title":
+    {
+        "font":
+        {
+            "name": "Dancing_Script",
+            "size": "150",
+            "regular_path": "assets/fonts/DancingScript-Regular.ttf"
+        }
+    },
+    "text_entry_line":
+    {
+        "colours":
+        {
+            "dark_bg": "#FFB0B0",
+            "normal_text": "#FFFFFF",
+            "hovered_bg":"#faa2a2",
+            "hovered_text":"#FFFFFF",
+            "normal_border": "#FFFFFF",
+            "hovered_border":"#FFFFFF",
+            "selected_border":"#FFFFFF",
+            "active_border": "#FFFFFF"
+        },
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1"
+        },
+        "font":
+        {
+            "name": "Roboto_Mono",
+            "size": "12",
+            "regular_path": "assets/fonts/RobotoMono-Regular.ttf"  
+        }
+    },
+    "text_entry_box":
+    {
+        "colours":
+        {
+            "normal_border": "#FFFFFF",
+            "dark_bg": "#FFB0B0",
+            "normal_text":"#FFFFFF",
+            "hovered_text":"#FFFFFF",
+            "active_text":"#FFFFFF",
+            "selected_text":"#FFFFFF",
+            "disabled_text":"#FFFFFF",
+            "hovered_bg":"#faa2a2",
+            "hovered_border":"#FFFFFF",
+            "selected_border":"#FFFFFF",
+            "active_border":"#FFFFFF"
+        },
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1"
+        }
+    },
+    "text_box":
+    {
+        "colours":
+        {
+            "normal_border": "#FFFFFF",
+            "dark_bg": "#FFB0B0",
+            "normal_text":"#FFFFFF",
+            "hovered_bg":"#faa2a2",
+            "hovered_text":"#FFFFFF",
+            "active_text":"#FFFFFF",
+            "hovered_border":"#FFFFFF",
+            "selected_border":"#FFFFFF",
+            "active_border":"#FFFFFF"
+        },
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1"
+        }
+    },
+    "@feedback_message":
+    {
+        "colours":
+        {
+            "dark_bg": "#FFECC8",
+            "selected_bg": "#FFECC8",
+            "hovered_bg":"#FFECC8",
+            "normal_text": "#fcc688",
+            "hovered_text":"#fcc688"
+        },
+        "misc":
+        {
+            "border_width": "0",
+            "shadow_width": "0",
+            "text_horiz_alignment": "left",
+            "text_vert_alignment": "bottom"
+        }
+    },
+    "selection_list":
+    {
+        "colours":
+        {
+            "dark_bg": "#ff9e9e",
+            "normal_border": "#FFFFFF",
+            "hovered_border":"#FFFFFF",
+            "selected_border":"#FFFFFF",
+            "active_border": "#FFFFFF"
+        },
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "5",
+            "border_width": "2",
+            "list_item_height": "20"
+        }
+    },
+    "horizontal_slider":
+    {
+        "colours":
+        {
+            "dark_bg": "#FFB0B0",
+            "normal_border": "#FFFFFF",
+            "hovered_border":"#FFFFFF",
+            "selected_border":"#FFFFFF",
+            "active_border": "#FFFFFF"
+        },
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "5",
+            "enable_arrow_buttons": "0"
+        }
+    },
+    "horizontal_slider.#sliding_button":
+    {
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "5"
+        }
+    },
+    "vertical_scroll_bar":
+    {
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "5",
+            "enable_arrow_buttons": "0"
+        },
+        "colours":
+        {
+            "dark_bg": "#ff9e9e",
+            "normal_border": "#FFFFFF",
+            "hovered_border":"#FFFFFF",
+            "selected_border":"#FFFFFF",
+            "active_border": "#FFFFFF"
+        }
+    },
+    "vertical_scroll_bar.#sliding_button":
+    {
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "5"
+        }
+    },
+    "@play_pause":
+    {
+        "font":
+        {
+            "name": "Roboto_Mono",
+            "size": "30",
+            "regular_path": "assets/fonts/RobotoMono-Regular.ttf"  
+        }
+    },
+    "#song_title":
+    {
+        "font":
+        {
+            "name": "Roboto_Mono",
+            "size": "70",
+            "regular_path": "assets/fonts/RobotoMono-Regular.ttf"  
+        },
+        "misc":
+        {
+            "text_horiz_alignment": "center"
+        }
+    },
+    "selection_list.@selection_list_item":
+    {
+        "colours":
+        {
+            "active_bg":"#ff9494",
+            "selected_bg":"#ff9494",
+            "active_text":"#FFFFFF",
+            "selected_text":"#FFFFFF",
+            "selected_border":"#FFFFFF",
+            "active_border": "#FFFFFF"
+        },
+        "misc":
+        {
+            "text_horiz_alignment": "center"
+        }
+    },
+    "label":
+    {
+        "colours":
+        {
+            "normal_text": "#fcc688"
+        }
+    }
+}

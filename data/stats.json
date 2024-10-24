@@ -1,0 +1,2853 @@
+{
+    "currentRound": 210,
+    "teams": {
+        "cybersecnatlab": "NOP Team",
+        "albania": "Albania",
+        "australia": "Australia",
+        "austria": "Austria",
+        "belgium": "Belgium",
+        "bulgaria": "Bulgaria",
+        "canada": "Canada",
+        "costa-rica": "Costa Rica",
+        "croatia": "Croatia",
+        "cyprus": "Cyprus",
+        "czech": "Czech Republic",
+        "denmark": "Denmark",
+        "estonia": "Estonia",
+        "finland": "Finland",
+        "france": "France",
+        "germany": "Germany",
+        "greece": "Greece",
+        "hungary": "Hungary",
+        "iceland": "Iceland",
+        "ireland": "Ireland",
+        "italy": "Italy",
+        "kosovo": "Kosovo",
+        "latvia": "Latvia",
+        "liechtenstein": "Liechtenstein",
+        "luxembourg": "Luxembourg",
+        "netherlands": "Netherlands",
+        "norway": "Norway",
+        "poland": "Poland",
+        "portugal": "Portugal",
+        "romania": "Romania",
+        "serbia": "Serbia",
+        "singapore": "Singapore",
+        "slovakia": "Slovakia",
+        "slovenia": "Slovenia",
+        "spain": "Spain",
+        "sweden": "Sweden",
+        "switzerland": "Switzerland",
+        "usa": "USA"
+    },
+    "services": {
+        "APT-Finals-1": "APT-Finals-1",
+        "APT-Finals-2": "APT-Finals-2",
+        "CookingNonna": "CookingNonna",
+        "Diese-1": "Diese-1",
+        "Diese-2": "Diese-2",
+        "duogesto": "duogesto",
+        "fonograph": "fonograph",
+        "Sanromolo": "Sanromolo"
+    },
+    "generatedFlags": 63536,
+    "totalSubmittedFlags": 235371,
+    "uniqueSubmittedFlags": 26917,
+    "submittedFlags": {
+        "services": [
+            {
+                "shortname": "APT-Finals-1",
+                "count": 1224
+            },
+            {
+                "shortname": "APT-Finals-2",
+                "count": 4094
+            },
+            {
+                "shortname": "CookingNonna",
+                "count": 4293
+            },
+            {
+                "shortname": "Diese-1",
+                "count": 3764
+            },
+            {
+                "shortname": "duogesto",
+                "count": 4100
+            },
+            {
+                "shortname": "fonograph",
+                "count": 4990
+            },
+            {
+                "shortname": "Sanromolo",
+                "count": 4452
+            }
+        ]
+    },
+    "teamExploitedServices": [
+        {
+            "shortname": "cybersecnatlab",
+            "count": 0
+        },
+        {
+            "shortname": "albania",
+            "count": 0
+        },
+        {
+            "shortname": "australia",
+            "count": 3
+        },
+        {
+            "shortname": "austria",
+            "count": 5
+        },
+        {
+            "shortname": "belgium",
+            "count": 3
+        },
+        {
+            "shortname": "bulgaria",
+            "count": 3
+        },
+        {
+            "shortname": "canada",
+            "count": 5
+        },
+        {
+            "shortname": "costa-rica",
+            "count": 2
+        },
+        {
+            "shortname": "croatia",
+            "count": 3
+        },
+        {
+            "shortname": "cyprus",
+            "count": 2
+        },
+        {
+            "shortname": "czech",
+            "count": 5
+        },
+        {
+            "shortname": "denmark",
+            "count": 5
+        },
+        {
+            "shortname": "estonia",
+            "count": 5
+        },
+        {
+            "shortname": "finland",
+            "count": 5
+        },
+        {
+            "shortname": "france",
+            "count": 4
+        },
+        {
+            "shortname": "germany",
+            "count": 6
+        },
+        {
+            "shortname": "greece",
+            "count": 4
+        },
+        {
+            "shortname": "hungary",
+            "count": 3
+        },
+        {
+            "shortname": "iceland",
+            "count": 4
+        },
+        {
+            "shortname": "ireland",
+            "count": 3
+        },
+        {
+            "shortname": "italy",
+            "count": 7
+        },
+        {
+            "shortname": "kosovo",
+            "count": 0
+        },
+        {
+            "shortname": "latvia",
+            "count": 2
+        },
+        {
+            "shortname": "liechtenstein",
+            "count": 1
+        },
+        {
+            "shortname": "luxembourg",
+            "count": 2
+        },
+        {
+            "shortname": "netherlands",
+            "count": 5
+        },
+        {
+            "shortname": "norway",
+            "count": 4
+        },
+        {
+            "shortname": "poland",
+            "count": 6
+        },
+        {
+            "shortname": "portugal",
+            "count": 4
+        },
+        {
+            "shortname": "romania",
+            "count": 5
+        },
+        {
+            "shortname": "serbia",
+            "count": 4
+        },
+        {
+            "shortname": "singapore",
+            "count": 0
+        },
+        {
+            "shortname": "slovakia",
+            "count": 3
+        },
+        {
+            "shortname": "slovenia",
+            "count": 3
+        },
+        {
+            "shortname": "spain",
+            "count": 4
+        },
+        {
+            "shortname": "sweden",
+            "count": 4
+        },
+        {
+            "shortname": "switzerland",
+            "count": 4
+        },
+        {
+            "shortname": "usa",
+            "count": 6
+        }
+    ],
+    "stolenFlags": [
+        {
+            "shortname": "cybersecnatlab",
+            "points": 0,
+            "count": 0,
+            "services": []
+        },
+        {
+            "shortname": "albania",
+            "points": 0,
+            "count": 0,
+            "services": []
+        },
+        {
+            "shortname": "australia",
+            "points": 16528.12134524478,
+            "count": 2470,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 2342.923103536249,
+                    "count": 146
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 6591.51516057093,
+                    "count": 1303
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 7593.683081137603,
+                    "count": 1021
+                }
+            ]
+        },
+        {
+            "shortname": "austria",
+            "points": 67974.03285107724,
+            "count": 13541,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 13395.40295806465,
+                    "count": 3511
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": 14091.01175502978,
+                    "count": 3350
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 10946.687492827856,
+                    "count": 2424
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 12990.402506468625,
+                    "count": 1308
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 16550.528138686324,
+                    "count": 2948
+                }
+            ]
+        },
+        {
+            "shortname": "belgium",
+            "points": 19305.00656376385,
+            "count": 2018,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 1887.985244106838,
+                    "count": 196
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 5228.7279958681565,
+                    "count": 491
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 12188.293323788856,
+                    "count": 1331
+                }
+            ]
+        },
+        {
+            "shortname": "bulgaria",
+            "points": 39581.21227700407,
+            "count": 4737,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 7035.81178214172,
+                    "count": 1578
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 22109.703718332596,
+                    "count": 2168
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 10435.696776529763,
+                    "count": 991
+                }
+            ]
+        },
+        {
+            "shortname": "canada",
+            "points": 50090.45436551623,
+            "count": 8809,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 9241.549184838075,
+                    "count": 1364
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": 11357.274795386882,
+                    "count": 1856
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 6236.279902862081,
+                    "count": 1143
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 7838.179094980605,
+                    "count": 1613
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 15417.171387448589,
+                    "count": 2833
+                }
+            ]
+        },
+        {
+            "shortname": "costa-rica",
+            "points": 10311.180845286948,
+            "count": 653,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 6174.5270280857485,
+                    "count": 405
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 4136.653817201199,
+                    "count": 248
+                }
+            ]
+        },
+        {
+            "shortname": "croatia",
+            "points": 25579.41825727634,
+            "count": 3784,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 4713.34514850505,
+                    "count": 442
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 11386.167115287415,
+                    "count": 1640
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 9479.905993483873,
+                    "count": 1702
+                }
+            ]
+        },
+        {
+            "shortname": "cyprus",
+            "points": 27241.36674223244,
+            "count": 3498,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 8153.818131306816,
+                    "count": 1314
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 19087.548610925624,
+                    "count": 2184
+                }
+            ]
+        },
+        {
+            "shortname": "czech",
+            "points": 43819.27110687179,
+            "count": 9285,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 3372.7709063394987,
+                    "count": 517
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 8007.672914131916,
+                    "count": 2039
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 11893.707699261433,
+                    "count": 2450
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 8407.728667054622,
+                    "count": 2397
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 12137.390920084317,
+                    "count": 1882
+                }
+            ]
+        },
+        {
+            "shortname": "denmark",
+            "points": 49220.96340696717,
+            "count": 11699,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 10145.605369719096,
+                    "count": 2241
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 6232.118410525048,
+                    "count": 1657
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 13037.15656720418,
+                    "count": 3414
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 13169.023272560908,
+                    "count": 3671
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 6637.059786957937,
+                    "count": 716
+                }
+            ]
+        },
+        {
+            "shortname": "estonia",
+            "points": 49121.449850982564,
+            "count": 7028,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 9665.475039839745,
+                    "count": 1621
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": 9287.581541396868,
+                    "count": 965
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 7316.753114771261,
+                    "count": 657
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 11929.429494606758,
+                    "count": 1438
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 10922.210660367939,
+                    "count": 2347
+                }
+            ]
+        },
+        {
+            "shortname": "finland",
+            "points": 52258.90395793941,
+            "count": 8816,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 8403.26792146446,
+                    "count": 1456
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 11086.748761585015,
+                    "count": 2725
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 11707.773960978018,
+                    "count": 2286
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 15468.731366574862,
+                    "count": 1887
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 5592.381947337054,
+                    "count": 462
+                }
+            ]
+        },
+        {
+            "shortname": "france",
+            "points": 38703.30959205529,
+            "count": 7690,
+            "services": [
+                {
+                    "shortname": "CookingNonna",
+                    "points": 6063.382399530489,
+                    "count": 643
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 7513.915940055568,
+                    "count": 1698
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 10823.714221153974,
+                    "count": 2404
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 14302.297031315258,
+                    "count": 2945
+                }
+            ]
+        },
+        {
+            "shortname": "germany",
+            "points": 64222.101477843345,
+            "count": 14864,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 6781.987334262532,
+                    "count": 992
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": 14567.655434085704,
+                    "count": 3418
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 7781.6587615287235,
+                    "count": 1586
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 9357.132822213696,
+                    "count": 2620
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 12791.06563087625,
+                    "count": 3608
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 12942.60149487644,
+                    "count": 2640
+                }
+            ]
+        },
+        {
+            "shortname": "greece",
+            "points": 37685.508871002065,
+            "count": 4790,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 643.1198643460599,
+                    "count": 63
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 4196.451704056567,
+                    "count": 635
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 15686.56770009851,
+                    "count": 2447
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 17159.36960250093,
+                    "count": 1645
+                }
+            ]
+        },
+        {
+            "shortname": "hungary",
+            "points": 40501.449397263365,
+            "count": 4871,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 8707.576314617198,
+                    "count": 1365
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 13005.68637527879,
+                    "count": 1287
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 18788.186707367382,
+                    "count": 2219
+                }
+            ]
+        },
+        {
+            "shortname": "iceland",
+            "points": 43691.58684422136,
+            "count": 8032,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 7807.211707545954,
+                    "count": 823
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 9756.120076022715,
+                    "count": 1835
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 8572.376185294199,
+                    "count": 2020
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 17555.878875358496,
+                    "count": 3354
+                }
+            ]
+        },
+        {
+            "shortname": "ireland",
+            "points": 29741.526279961705,
+            "count": 7106,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 8032.4368549005,
+                    "count": 2033
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 9960.5134274713,
+                    "count": 2210
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 11748.575997589907,
+                    "count": 2863
+                }
+            ]
+        },
+        {
+            "shortname": "italy",
+            "points": 74904.84364370671,
+            "count": 15514,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": 9936.123484860349,
+                    "count": 1220
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 11394.467659391472,
+                    "count": 2794
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": 11999.046870301076,
+                    "count": 1910
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 7023.856780258128,
+                    "count": 1877
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 9110.3811848583,
+                    "count": 2161
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 15597.871215571278,
+                    "count": 4012
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 9843.096448466107,
+                    "count": 1540
+                }
+            ]
+        },
+        {
+            "shortname": "kosovo",
+            "points": 0,
+            "count": 0,
+            "services": []
+        },
+        {
+            "shortname": "latvia",
+            "points": 21067.597976247314,
+            "count": 2095,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 8530.609118247497,
+                    "count": 871
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 12536.988857999819,
+                    "count": 1224
+                }
+            ]
+        },
+        {
+            "shortname": "liechtenstein",
+            "points": 1351.2291904692324,
+            "count": 80,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 1351.2291904692324,
+                    "count": 80
+                }
+            ]
+        },
+        {
+            "shortname": "luxembourg",
+            "points": 26947.554208144,
+            "count": 2624,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 8833.245972191982,
+                    "count": 924
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 18114.30823595202,
+                    "count": 1700
+                }
+            ]
+        },
+        {
+            "shortname": "netherlands",
+            "points": 63437.920861885104,
+            "count": 13554,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 11805.078624946696,
+                    "count": 2990
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 10076.768132674719,
+                    "count": 2292
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 13521.554380388248,
+                    "count": 2899
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 16270.344543892168,
+                    "count": 3545
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 11764.175179983273,
+                    "count": 1828
+                }
+            ]
+        },
+        {
+            "shortname": "norway",
+            "points": 62288.92105756161,
+            "count": 7908,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 10455.542080843186,
+                    "count": 2115
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 18540.4811239352,
+                    "count": 2284
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 22019.613941684845,
+                    "count": 2020
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 11273.283911098379,
+                    "count": 1489
+                }
+            ]
+        },
+        {
+            "shortname": "poland",
+            "points": 55906.41621859888,
+            "count": 10972,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 7187.310510312353,
+                    "count": 1347
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": 766.0811863167406,
+                    "count": 64
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 7365.594370085009,
+                    "count": 1506
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 10074.720757208484,
+                    "count": 1491
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 15453.189604651117,
+                    "count": 2885
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 15059.519790025182,
+                    "count": 3679
+                }
+            ]
+        },
+        {
+            "shortname": "portugal",
+            "points": 20188.996511707486,
+            "count": 2532,
+            "services": [
+                {
+                    "shortname": "CookingNonna",
+                    "points": 1398.9882738143497,
+                    "count": 86
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 3779.456385955252,
+                    "count": 368
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 9612.815444224634,
+                    "count": 1585
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 5397.7364077132515,
+                    "count": 493
+                }
+            ]
+        },
+        {
+            "shortname": "romania",
+            "points": 43459.375404847844,
+            "count": 11201,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": 187.3829792489294,
+                    "count": 11
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 12499.743497413037,
+                    "count": 3223
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 4852.072041297409,
+                    "count": 1461
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 14836.939445113325,
+                    "count": 3435
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 11083.237441775142,
+                    "count": 3071
+                }
+            ]
+        },
+        {
+            "shortname": "serbia",
+            "points": 39941.4257503146,
+            "count": 5300,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": 149.54210024561004,
+                    "count": 9
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 4864.5607380183355,
+                    "count": 1366
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 17409.5508094374,
+                    "count": 1448
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 17517.772102613253,
+                    "count": 2477
+                }
+            ]
+        },
+        {
+            "shortname": "singapore",
+            "points": 0,
+            "count": 0,
+            "services": []
+        },
+        {
+            "shortname": "slovakia",
+            "points": 23823.713736354184,
+            "count": 4122,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 7707.135929958805,
+                    "count": 1354
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 6939.008860076771,
+                    "count": 1156
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 9177.568946318606,
+                    "count": 1612
+                }
+            ]
+        },
+        {
+            "shortname": "slovenia",
+            "points": 33935.47235966981,
+            "count": 6216,
+            "services": [
+                {
+                    "shortname": "Diese-1",
+                    "points": 6189.732054732837,
+                    "count": 864
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 13761.228367443402,
+                    "count": 2077
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 13984.511937493573,
+                    "count": 3275
+                }
+            ]
+        },
+        {
+            "shortname": "spain",
+            "points": 45123.29085318915,
+            "count": 4489,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 4700.211924758418,
+                    "count": 450
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 6316.648714524693,
+                    "count": 429
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 16960.961463451866,
+                    "count": 1909
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 17145.468750454176,
+                    "count": 1701
+                }
+            ]
+        },
+        {
+            "shortname": "sweden",
+            "points": 40811.03978695767,
+            "count": 7157,
+            "services": [
+                {
+                    "shortname": "CookingNonna",
+                    "points": 8496.45545686787,
+                    "count": 1366
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 7554.603039547837,
+                    "count": 1833
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 12424.450553539027,
+                    "count": 2128
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 12335.53073700293,
+                    "count": 1830
+                }
+            ]
+        },
+        {
+            "shortname": "switzerland",
+            "points": 44200.019999551645,
+            "count": 9787,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 7085.143516873813,
+                    "count": 1339
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 12519.442065835306,
+                    "count": 2872
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 10619.650513295743,
+                    "count": 2327
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 13975.783903546784,
+                    "count": 3249
+                }
+            ]
+        },
+        {
+            "shortname": "usa",
+            "points": 45074.78960689994,
+            "count": 8129,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": 2743.8247213213886,
+                    "count": 386
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": 7153.886264008084,
+                    "count": 812
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": 9817.97635732733,
+                    "count": 1871
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": 10534.384576968696,
+                    "count": 2823
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": 11598.224638250707,
+                    "count": 2022
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": 3226.4930490237325,
+                    "count": 215
+                }
+            ]
+        }
+    ],
+    "lostFlags": [
+        {
+            "shortname": "cybersecnatlab",
+            "points": 0,
+            "count": 0,
+            "services": []
+        },
+        {
+            "shortname": "albania",
+            "points": -10827.615685876719,
+            "count": 6867,
+            "services": [
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2983.6114987404694,
+                    "count": 566
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -83.26253287856434,
+                    "count": 5
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -4999.999999999989,
+                    "count": 5759
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2760.7416542576952,
+                    "count": 537
+                }
+            ]
+        },
+        {
+            "shortname": "australia",
+            "points": -28564.69427554439,
+            "count": 7403,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -348.017255614177,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -6092.577652506927,
+                    "count": 1171
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2946.4087766176654,
+                    "count": 557
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -1092.541371287088,
+                    "count": 75
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -10261.598125093202,
+                    "count": 1497
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -5000.000000000006,
+                    "count": 3519
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2823.551094425321,
+                    "count": 540
+                }
+            ]
+        },
+        {
+            "shortname": "austria",
+            "points": -32319.789086864344,
+            "count": 3749,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -446.68363171559037,
+                    "count": 50
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -722.7510495884052,
+                    "count": 32
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1175.5121574712243,
+                    "count": 45
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -3016.237253237692,
+                    "count": 264
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -14075.380537581043,
+                    "count": 2171
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -10778.536298833325,
+                    "count": 917
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2104.688158437063,
+                    "count": 270
+                }
+            ]
+        },
+        {
+            "shortname": "belgium",
+            "points": -35050.776239912506,
+            "count": 8698,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -290.92485865501453,
+                    "count": 35
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -2667.2741469068005,
+                    "count": 400
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2944.941113718716,
+                    "count": 559
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -5624.841686041997,
+                    "count": 1455
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -7880.238491798547,
+                    "count": 3269
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -12933.133739196745,
+                    "count": 2484
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2709.4222035946846,
+                    "count": 496
+                }
+            ]
+        },
+        {
+            "shortname": "bulgaria",
+            "points": -54147.109694488245,
+            "count": 8553,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -360.14750089531566,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4929.14097827122,
+                    "count": 1140
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2838.722671862991,
+                    "count": 560
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -3892.1047200142343,
+                    "count": 319
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -24434.961722667675,
+                    "count": 2917
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -14870.420206443683,
+                    "count": 3032
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2821.6118943331203,
+                    "count": 541
+                }
+            ]
+        },
+        {
+            "shortname": "canada",
+            "points": -36428.2098239434,
+            "count": 4073,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -363.7931999283785,
+                    "count": 45
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -9004.533565114181,
+                    "count": 1083
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -3144.39908732503,
+                    "count": 254
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -6237.455268944774,
+                    "count": 900
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -4197.319896883894,
+                    "count": 463
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -10652.358616458096,
+                    "count": 814
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2828.350189289041,
+                    "count": 514
+                }
+            ]
+        },
+        {
+            "shortname": "costa-rica",
+            "points": -36128.548870117294,
+            "count": 15399,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -358.66764919138194,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4959.066071624436,
+                    "count": 1181
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2783.4741785854903,
+                    "count": 548
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -11174.527028085777,
+                    "count": 3149
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -9135.629363899987,
+                    "count": 5732
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -4999.999999999985,
+                    "count": 4212
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2717.1845787302377,
+                    "count": 533
+                }
+            ]
+        },
+        {
+            "shortname": "croatia",
+            "points": -35629.166517229445,
+            "count": 7155,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -363.8048640541862,
+                    "count": 45
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4960.837279719353,
+                    "count": 1163
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2754.5207636683517,
+                    "count": 539
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -7821.210764814663,
+                    "count": 3105
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -10464.59164306114,
+                    "count": 954
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -6459.94849745816,
+                    "count": 810
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2804.252704453591,
+                    "count": 539
+                }
+            ]
+        },
+        {
+            "shortname": "cyprus",
+            "points": -41732.70479628997,
+            "count": 8905,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -2483.5765925824617,
+                    "count": 523
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2743.8419960654664,
+                    "count": 540
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -8248.172264664057,
+                    "count": 924
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -20805.052703921978,
+                    "count": 2266
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -4999.999999999977,
+                    "count": 4285
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2452.0612390560304,
+                    "count": 367
+                }
+            ]
+        },
+        {
+            "shortname": "czech",
+            "points": -12855.803767018142,
+            "count": 1156,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -17.584530842877303,
+                    "count": 1
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -1686.710294036083,
+                    "count": 268
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1270.020601728121,
+                    "count": 169
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -477.0819829629341,
+                    "count": 28
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -3883.835912831243,
+                    "count": 231
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -1496.2835101916135,
+                    "count": 129
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -4024.28693442527,
+                    "count": 330
+                }
+            ]
+        },
+        {
+            "shortname": "denmark",
+            "points": -10180.269224783164,
+            "count": 815,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -1481.5197482579333,
+                    "count": 160
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1024.6012352613773,
+                    "count": 140
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -1119.8774207748088,
+                    "count": 85
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -2446.493796413174,
+                    "count": 123
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -2326.2945368112637,
+                    "count": 128
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -1781.4824872646077,
+                    "count": 179
+                }
+            ]
+        },
+        {
+            "shortname": "estonia",
+            "points": -38909.698031060776,
+            "count": 6276,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -355.76519214075273,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -3721.830033809242,
+                    "count": 439
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -3682.528878892983,
+                    "count": 500
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -10240.308212317372,
+                    "count": 2417
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -12598.110018529906,
+                    "count": 1698
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -5504.187275979843,
+                    "count": 644
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2806.9684193906787,
+                    "count": 534
+                }
+            ]
+        },
+        {
+            "shortname": "finland",
+            "points": -30002.69706146714,
+            "count": 3496,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -430.7460622152204,
+                    "count": 49
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -1808.7627170582034,
+                    "count": 179
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2965.1067590804964,
+                    "count": 556
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -1855.5195567554767,
+                    "count": 77
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -6674.056334131062,
+                    "count": 482
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -13558.170492600279,
+                    "count": 1784
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2710.335139626403,
+                    "count": 369
+                }
+            ]
+        },
+        {
+            "shortname": "france",
+            "points": -23553.339146208742,
+            "count": 2415,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -2171.4790276562744,
+                    "count": 423
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -899.170567375476,
+                    "count": 89
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -4807.377970835264,
+                    "count": 469
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -3470.597917483741,
+                    "count": 243
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -9447.316849464052,
+                    "count": 677
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2757.396813393934,
+                    "count": 514
+                }
+            ]
+        },
+        {
+            "shortname": "germany",
+            "points": -9909.603567938024,
+            "count": 750,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -425.0127507410399,
+                    "count": 48
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -2281.539862339985,
+                    "count": 162
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1954.5346968542522,
+                    "count": 90
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -3365.7829904053874,
+                    "count": 329
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -1475.5491253908328,
+                    "count": 80
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -113.842449433815,
+                    "count": 7
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -293.34169277271184,
+                    "count": 34
+                }
+            ]
+        },
+        {
+            "shortname": "greece",
+            "points": -44951.512690443444,
+            "count": 6716,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -363.79660354014493,
+                    "count": 45
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -3217.5911327889094,
+                    "count": 599
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2809.318688835145,
+                    "count": 549
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -6856.365405952619,
+                    "count": 1320
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -9295.106070379366,
+                    "count": 629
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -20076.737868159755,
+                    "count": 3256
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2332.596920787501,
+                    "count": 318
+                }
+            ]
+        },
+        {
+            "shortname": "hungary",
+            "points": -54291.79353492922,
+            "count": 8004,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -349.177342127283,
+                    "count": 42
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4798.0660441715345,
+                    "count": 1044
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2753.6207849795196,
+                    "count": 538
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -7476.76265122329,
+                    "count": 1002
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -13868.551640099455,
+                    "count": 2033
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -22199.320831923014,
+                    "count": 2801
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2846.294240405122,
+                    "count": 544
+                }
+            ]
+        },
+        {
+            "shortname": "iceland",
+            "points": -31291.720303924572,
+            "count": 3349,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -359.72142944991936,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -5447.88365231806,
+                    "count": 922
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2920.7100155134904,
+                    "count": 561
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -4175.384611466837,
+                    "count": 291
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -2594.3428209450162,
+                    "count": 178
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -12966.36327839453,
+                    "count": 811
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2827.3144958367197,
+                    "count": 542
+                }
+            ]
+        },
+        {
+            "shortname": "ireland",
+            "points": -17104.86691044765,
+            "count": 2105,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -359.3745539532623,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4841.7563470790255,
+                    "count": 1078
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -949.3529704944752,
+                    "count": 169
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -2950.022665079515,
+                    "count": 243
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -3838.16767337765,
+                    "count": 259
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -3710.5444252331313,
+                    "count": 255
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -455.6482752305933,
+                    "count": 57
+                }
+            ]
+        },
+        {
+            "shortname": "italy",
+            "points": -15232.621566333984,
+            "count": 726,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -568.9218789652639,
+                    "count": 47
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -265.31677197787735,
+                    "count": 27
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -860.7190079291462,
+                    "count": 60
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -4516.812479870353,
+                    "count": 213
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -8908.300511353704,
+                    "count": 368
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -112.55091623764046,
+                    "count": 11
+                }
+            ]
+        },
+        {
+            "shortname": "kosovo",
+            "points": -25958.305053663993,
+            "count": 17247,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -363.79660354014493,
+                    "count": 45
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4922.226287580532,
+                    "count": 1160
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2822.187490428439,
+                    "count": 554
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -4999.999999999982,
+                    "count": 4864
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -5000.000000000006,
+                    "count": 5814
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -4999.99999999998,
+                    "count": 4266
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2850.094672114909,
+                    "count": 544
+                }
+            ]
+        },
+        {
+            "shortname": "latvia",
+            "points": -42785.63463651765,
+            "count": 11800,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -363.80466568361123,
+                    "count": 45
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4963.702122215936,
+                    "count": 1188
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2729.0980039175865,
+                    "count": 538
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -12389.410793990217,
+                    "count": 2460
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -14444.421480740812,
+                    "count": 2853
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -4999.999999999982,
+                    "count": 4163
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2895.1975699695126,
+                    "count": 553
+                }
+            ]
+        },
+        {
+            "shortname": "liechtenstein",
+            "points": -27221.667484705747,
+            "count": 14357,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -342.9120939188648,
+                    "count": 42
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4896.833446450771,
+                    "count": 1128
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2812.156084571533,
+                    "count": 564
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -6351.2291904692265,
+                    "count": 4836
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -5000.000000000003,
+                    "count": 3154
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -4999.999999999985,
+                    "count": 4089
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2818.5366692953644,
+                    "count": 544
+                }
+            ]
+        },
+        {
+            "shortname": "luxembourg",
+            "points": -48256.2924799473,
+            "count": 11493,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -358.4003091557005,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4943.77952408527,
+                    "count": 1164
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2807.2521884268854,
+                    "count": 557
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -12569.729634634032,
+                    "count": 2636
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -19741.568410708023,
+                    "count": 2418
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -4999.999999999978,
+                    "count": 4129
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2835.5624129374105,
+                    "count": 545
+                }
+            ]
+        },
+        {
+            "shortname": "netherlands",
+            "points": -23862.15074837602,
+            "count": 1577,
+            "services": [
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -567.1876530835052,
+                    "count": 49
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1823.8376782364217,
+                    "count": 225
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -2020.7654006325129,
+                    "count": 105
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -6214.921470637841,
+                    "count": 338
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -10093.24163436932,
+                    "count": 591
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -3142.196911416422,
+                    "count": 269
+                }
+            ]
+        },
+        {
+            "shortname": "norway",
+            "points": -66606.53258590023,
+            "count": 8461,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -363.7931999283785,
+                    "count": 45
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4924.673991917286,
+                    "count": 1142
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2747.270822201683,
+                    "count": 543
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -9237.21696557501,
+                    "count": 731
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -18124.48544718191,
+                    "count": 1742
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -25941.411759987503,
+                    "count": 3775
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -5267.680399108458,
+                    "count": 483
+                }
+            ]
+        },
+        {
+            "shortname": "poland",
+            "points": -25744.350304909243,
+            "count": 2200,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -397.26025203365754,
+                    "count": 47
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -204.05698938879732,
+                    "count": 15
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1049.291283246083,
+                    "count": 131
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -4124.952432463785,
+                    "count": 319
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -9927.862505100777,
+                    "count": 1025
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -9838.458750480033,
+                    "count": 656
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -202.46809219611146,
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "shortname": "portugal",
+            "points": -34584.22082035595,
+            "count": 9574,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -348.01315918660504,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4970.92326055705,
+                    "count": 1166
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2749.077508850412,
+                    "count": 547
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -7105.767392270119,
+                    "count": 2774
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -7041.8910957027,
+                    "count": 956
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -9601.919363837551,
+                    "count": 3548
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2766.6290399515133,
+                    "count": 539
+                }
+            ]
+        },
+        {
+            "shortname": "romania",
+            "points": -9440.517840084061,
+            "count": 850,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -360.9024210154142,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -519.8152172351796,
+                    "count": 30
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1956.4710077555333,
+                    "count": 296
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -776.6025553650835,
+                    "count": 56
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -3226.490992471482,
+                    "count": 151
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -1348.708753252506,
+                    "count": 96
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -1251.5268929888628,
+                    "count": 177
+                }
+            ]
+        },
+        {
+            "shortname": "serbia",
+            "points": -50631.07857743598,
+            "count": 8515,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -348.81986494079484,
+                    "count": 43
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4770.997117660582,
+                    "count": 1125
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2864.6644053712666,
+                    "count": 581
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -2166.9123014508828,
+                    "count": 237
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -22290.5510551331,
+                    "count": 4454
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -15360.369471271577,
+                    "count": 1535
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2828.764361607784,
+                    "count": 540
+                }
+            ]
+        },
+        {
+            "shortname": "singapore",
+            "points": -23850.414283089667,
+            "count": 14349,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -363.80126208230257,
+                    "count": 45
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4901.030254034201,
+                    "count": 1091
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1422.4326678830537,
+                    "count": 207
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -5000.000000000008,
+                    "count": 4856
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -5000.000000000002,
+                    "count": 4288
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -5000.000000000009,
+                    "count": 3485
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2163.150099090091,
+                    "count": 377
+                }
+            ]
+        },
+        {
+            "shortname": "slovakia",
+            "points": -32446.71205255948,
+            "count": 4928,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -259.0813799191102,
+                    "count": 23
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4331.550257535483,
+                    "count": 960
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2806.4619059667752,
+                    "count": 564
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -6874.425063682444,
+                    "count": 657
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -6850.610635019243,
+                    "count": 1352
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -9949.022259765661,
+                    "count": 1215
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -1375.5605506707652,
+                    "count": 157
+                }
+            ]
+        },
+        {
+            "shortname": "slovenia",
+            "points": -33512.11166450394,
+            "count": 4631,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -359.475245154284,
+                    "count": 44
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -4659.573918928034,
+                    "count": 926
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2559.6411958002686,
+                    "count": 506
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -6814.254181147368,
+                    "count": 1446
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -11700.53987019038,
+                    "count": 842
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -4587.199377936486,
+                    "count": 322
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2831.4278753471126,
+                    "count": 545
+                }
+            ]
+        },
+        {
+            "shortname": "spain",
+            "points": -66192.24365394756,
+            "count": 11799,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -356.5579334455737,
+                    "count": 43
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -5788.53776446007,
+                    "count": 1143
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2832.0242980965595,
+                    "count": 569
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -11265.788285908537,
+                    "count": 3737
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -21960.961463451862,
+                    "count": 2402
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -21193.911102057,
+                    "count": 3373
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2794.462806527948,
+                    "count": 532
+                }
+            ]
+        },
+        {
+            "shortname": "sweden",
+            "points": -24700.123179216465,
+            "count": 2875,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -380.3363898628031,
+                    "count": 46
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -3283.1697245028768,
+                    "count": 555
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1695.8088104454775,
+                    "count": 103
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -1077.321391857764,
+                    "count": 79
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -7984.972650105509,
+                    "count": 538
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -9682.021386031403,
+                    "count": 1488
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -596.4928264106298,
+                    "count": 66
+                }
+            ]
+        },
+        {
+            "shortname": "switzerland",
+            "points": -13268.679529664609,
+            "count": 1323,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -52.60072969197311,
+                    "count": 3
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -858.4151138591453,
+                    "count": 123
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -1211.886808370861,
+                    "count": 219
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -3361.316970959915,
+                    "count": 182
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -3377.82988790339,
+                    "count": 283
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -2258.5766753033504,
+                    "count": 219
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2148.0533435759753,
+                    "count": 294
+                }
+            ]
+        },
+        {
+            "shortname": "usa",
+            "points": -27362.59711996342,
+            "count": 2782,
+            "services": [
+                {
+                    "shortname": "APT-Finals-1",
+                    "points": -60.27562973111329,
+                    "count": 13
+                },
+                {
+                    "shortname": "APT-Finals-2",
+                    "points": -1862.8031266846076,
+                    "count": 284
+                },
+                {
+                    "shortname": "CookingNonna",
+                    "points": -2482.087602120332,
+                    "count": 210
+                },
+                {
+                    "shortname": "Diese-1",
+                    "points": -8453.046436769984,
+                    "count": 626
+                },
+                {
+                    "shortname": "duogesto",
+                    "points": -1397.9384332902948,
+                    "count": 89
+                },
+                {
+                    "shortname": "fonograph",
+                    "points": -10368.327938671524,
+                    "count": 1050
+                },
+                {
+                    "shortname": "Sanromolo",
+                    "points": -2738.1179526955652,
+                    "count": 510
+                }
+            ]
+        }
+    ],
+    "teamSla": [
+        {
+            "shortname": "cybersecnatlab",
+            "sla": 0.9835965978128797
+        },
+        {
+            "shortname": "albania",
+            "sla": 0.3617021276595745
+        },
+        {
+            "shortname": "australia",
+            "sla": 0.8481166464155528
+        },
+        {
+            "shortname": "austria",
+            "sla": 0.959902794653706
+        },
+        {
+            "shortname": "belgium",
+            "sla": 0.9161603888213852
+        },
+        {
+            "shortname": "bulgaria",
+            "sla": 0.9580801944106926
+        },
+        {
+            "shortname": "canada",
+            "sla": 0.9756986634264885
+        },
+        {
+            "shortname": "costa-rica",
+            "sla": 0.9434650455927052
+        },
+        {
+            "shortname": "croatia",
+            "sla": 0.7946537059538274
+        },
+        {
+            "shortname": "cyprus",
+            "sla": 0.9835866261398176
+        },
+        {
+            "shortname": "czech",
+            "sla": 0.982989064398542
+        },
+        {
+            "shortname": "denmark",
+            "sla": 0.9866342648845686
+        },
+        {
+            "shortname": "estonia",
+            "sla": 0.9447144592952612
+        },
+        {
+            "shortname": "finland",
+            "sla": 0.9750911300121506
+        },
+        {
+            "shortname": "france",
+            "sla": 0.9349939246658566
+        },
+        {
+            "shortname": "germany",
+            "sla": 0.9520048602673147
+        },
+        {
+            "shortname": "greece",
+            "sla": 0.9708383961117861
+        },
+        {
+            "shortname": "hungary",
+            "sla": 0.9787234042553191
+        },
+        {
+            "shortname": "iceland",
+            "sla": 0.9726609963547995
+        },
+        {
+            "shortname": "ireland",
+            "sla": 0.8833535844471446
+        },
+        {
+            "shortname": "italy",
+            "sla": 0.9544349939246659
+        },
+        {
+            "shortname": "kosovo",
+            "sla": 0.9896719319562576
+        },
+        {
+            "shortname": "latvia",
+            "sla": 0.9580801944106926
+        },
+        {
+            "shortname": "liechtenstein",
+            "sla": 0.9683890577507599
+        },
+        {
+            "shortname": "luxembourg",
+            "sla": 0.9100850546780073
+        },
+        {
+            "shortname": "netherlands",
+            "sla": 0.9817518248175182
+        },
+        {
+            "shortname": "norway",
+            "sla": 0.9629404617253949
+        },
+        {
+            "shortname": "poland",
+            "sla": 0.9793313069908814
+        },
+        {
+            "shortname": "portugal",
+            "sla": 0.9750759878419453
+        },
+        {
+            "shortname": "romania",
+            "sla": 0.9057750759878419
+        },
+        {
+            "shortname": "serbia",
+            "sla": 0.9015795868772782
+        },
+        {
+            "shortname": "singapore",
+            "sla": 0.8608748481166464
+        },
+        {
+            "shortname": "slovakia",
+            "sla": 0.9155528554070473
+        },
+        {
+            "shortname": "slovenia",
+            "sla": 0.9678007290400972
+        },
+        {
+            "shortname": "spain",
+            "sla": 0.8560145808019441
+        },
+        {
+            "shortname": "sweden",
+            "sla": 0.9434993924665857
+        },
+        {
+            "shortname": "switzerland",
+            "sla": 0.959902794653706
+        },
+        {
+            "shortname": "usa",
+            "sla": 0.9009720534629405
+        }
+    ],
+    "frozen": false
+}
