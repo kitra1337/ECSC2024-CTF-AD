@@ -8,7 +8,7 @@ services:
       - "8080:8080"
 
   postgres:
-    image: cache.ecsc2024.it/library/postgres:16.4
+    image: postgres:16
     restart: unless-stopped
     environment:
       POSTGRES_USER: postgres
