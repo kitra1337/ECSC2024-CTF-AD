@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   db:
-    image: cache.ecsc2024.it/library/mysql@sha256:566007208a3f1cc8f9df6b767665b5c9b800fc4fb5f863d17aa1df362880ed04
+    image: mysql:8.0
     container_name: db
     restart: always
     environment:
@@ -11,7 +11,6 @@ services:
     volumes:
       - db_volume:/var/lib/mysql
 
-
   app:
     build: backend
     container_name: app
@@ -19,9 +18,8 @@ services:
     environment:
       DBHOST: db
 
-
   nginx:
-    image: cache.ecsc2024.it/library/nginx@sha256:d2eb56950b84efe34f966a2b92efb1a1a2ea53e7e93b94cdf45a27cf3cd47fc0
+    image: nginx:latest
     container_name: nginx
     restart: always
     ports:
@@ -29,7 +27,6 @@ services:
     volumes:
       - ./backend/nginx.conf:/etc/nginx/nginx.conf
       - ./nginx:/usr/share/nginx/html
-
 
 volumes:
   db_volume:

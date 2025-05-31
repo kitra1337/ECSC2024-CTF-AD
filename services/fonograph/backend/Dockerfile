@@ -1,6 +1,6 @@
-FROM cache.ecsc2024.it/library/python@sha256:feca56bb45e0dfbac0c889aaf6bae9f2484795ce1027698bee08e29157ad91d1
+FROM python:3.9-slim
 
-RUN apt install wget
+RUN apt-get update && apt-get install -y wget && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 COPY ./requirements.txt requirements.txt
