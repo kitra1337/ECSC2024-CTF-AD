@@ -1,2 +1,7 @@
-FROM cache.ecsc2024.it/cybersecnatlab/socaz@sha256:b2c75ceae403707a02cff1c90e338c7f08c1ebc6b37862f0ffb47369f4cdabde
-RUN apt update -y && apt install -y libssl-dev libgmp-dev
+FROM ubuntu:22.04
+
+RUN apt-get update && \
+    apt-get install -y libssl-dev libgmp-dev socat && \
+    rm -rf /var/lib/apt/lists/*
+
+CMD ["socat", "TCP-LISTEN:2222,reuseaddr,fork", "EXEC:/chall/main"]

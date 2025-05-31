@@ -4,7 +4,6 @@ services:
     restart: unless-stopped
     ports:
       - '2222:2222'
-    command: 'socaz --timeout 10000 --debug --uid 65534 --gid 65534 --bind 2222 --cmd /chall/main'
     volumes:
       - './service/build:/chall:ro'
       - './data:/data'
