@@ -1,4 +1,4 @@
-FROM cache.ecsc2024.it/library/nginx:1.27
+FROM nginx:1.25
 
 COPY ./build /usr/share/nginx/html
 

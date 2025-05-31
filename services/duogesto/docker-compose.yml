@@ -21,7 +21,7 @@ services:
       - duogesto-network
 
   duogesto-database:
-    image: cache.ecsc2024.it/library/mongo:8.0.0
+    image: mongo:6.0
     restart: unless-stopped
     volumes:
       - ./init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
