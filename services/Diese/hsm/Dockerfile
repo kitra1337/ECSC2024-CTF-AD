@@ -1,7 +1,9 @@
-FROM cache.ecsc2024.it/cybersecnatlab/socaz:ubuntu-noble
+FROM ubuntu:22.04
 
 WORKDIR /srv/hsm
 
-RUN apt-get update && apt-get install -y python3 qemu-system-arm
+RUN apt-get update && \
+    apt-get install -y python3 qemu-system-arm socat && \
+    rm -rf /var/lib/apt/lists/*
 
-CMD ["socaz", "--bind", "1337", "--timeout", "5", "--cmd", "./hsm.py hsm.bin /srv/hsm_data/db.sqlite"]
+CMD ["socat", "TCP-LISTEN:1337,reuseaddr,fork", "EXEC:./hsm.py hsm.bin /srv/hsm_data/db.sqlite"]

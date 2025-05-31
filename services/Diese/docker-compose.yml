@@ -22,7 +22,7 @@ services:
       - '80:80'
       
   database:
-    image: cache.ecsc2024.it/library/mariadb:11
+    image: mariadb:10.11
     environment:
       MARIADB_ROOT_PASSWORD: "${DB_PASS}"
     command: ["--default-authentication-plugin=mysql_native_password"]
